@@ -33,3 +33,6 @@
 3. 결과 확인
 
 -image j, 750x750 16 bit int 로 확인합니다
+
+4. 참조
+Kyungsang Kim (2023). 3D Cone beam CT (CBCT) projection backprojection FDK, iterative reconstruction Matlab examples (https://www.mathworks.com/matlabcentral/fileexchange/35548-3d-cone-beam-ct-cbct-projection-backprojection-fdk-iterative-reconstruction-matlab-examples), MATLAB Central File Exchange. 검색됨 2023/6/26.
