@@ -21,4 +21,4 @@
 
 3. 결과 확인
 
--imagej 이용해서 750x750, 32bit real로 확인합니다
+-imagej 이용해서 750x750, 16bit signed Int로 확인합니다
